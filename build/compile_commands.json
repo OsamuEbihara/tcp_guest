@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/osamu/git/tcp_guest/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/TCP_guest.dir/main.c.o -c /home/osamu/git/tcp_guest/main.c",
+  "file": "/home/osamu/git/tcp_guest/main.c"
+}
+]
